@@ -51,7 +51,7 @@ Stakeholder-focused storytelling
 
 Ethical considerations in data analysis
 
-Tools & Technologies:
+🛠Tools & Technologies:
 
 Python
 
