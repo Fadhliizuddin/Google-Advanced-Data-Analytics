@@ -61,6 +61,8 @@ Matplotlib, Seaborn
 
 Scikit-learn
 
+Statsmodels
+
 Jupyter Notebook
 
 SQL
