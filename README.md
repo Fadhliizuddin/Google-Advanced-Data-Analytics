@@ -7,25 +7,40 @@ I have completed the Google Advanced Data Analytics Certificate, which consists 
 This repository documents the course resources (Exampler, Follow-along example, and End-of-course exampler) and my own practical capstone applications learn throughout the program.
 
 📂 Repository Overview
+
 This repository is divided into two parts:
+
   1)Certification Resources - Divided into 4 courses, each of which contains its own example, follow-along notation, and end-of-course project
+  
   2) Capstone Application - My own personal project where I apply my understanding and skills to the SECOM dataset
 
 📌 Executive Summary
+
 This project addresses a critical challenge in semiconductor fabrication: identifying faulty wafers early in the production line. Using a high-dimensional dataset of 590+ sensor readings, I developed a machine learning pipeline that predicts "FAIL" states with a focus on maximizing Recall, thereby reducing the operational costs associated with downstream processing of defective units.
 
 In the SECOM Capstone Application Project, a Jupyter Notebook on Google Colab was used, and below is the model deployment pipeline:
+
   1)Data import
+  
   2)Preprocessing and Cleaning
+  
   3)Feature Selection (VarianceThreshold, Hypothesis testing with ANOVA)
+  
   4)Feature Scaling (StandardScaler)
+  
   5)Model Building
+  
   6)Logistic Regression (Imbalanced sampling, Oversampling, Oversampling with SMOTE)
+  
   7)Random Forest Model (Oversampling with SMOTE, GridSearchCV)
+  
   8)XGBoost Model
+  
   9)Model Evaluation (Accuracy, Precision, Recall, F1-Score)
 
 <img width="945" height="181" alt="Image" src="https://github.com/user-attachments/assets/b6ec8c7a-8be4-4110-9704-62b3d149b7d5" />
+
+
 
 The link to my certificate: https://coursera.org/share/0584dbe257e6aaa353ae4cf9c986c382
 
