@@ -10,7 +10,7 @@ This repository documents the course resources (Exampler, Follow-along example, 
 
 This repository is divided into two parts:
 
-1)Certification Resources - Divided into 4 courses, each of which contains its own example, follow-along notation, and end-of-course project
+1) Certification Resources - Divided into 4 courses, each of which contains its own example, follow-along notation, and end-of-course project
   
 2) Capstone Application - My own personal project where I apply my understanding and skills to the SECOM dataset
 
@@ -26,12 +26,10 @@ In the SECOM Capstone Application Project, a Jupyter Notebook on Google Colab wa
   4)Feature Scaling (StandardScaler)  
   5)Model Building  
   6)Logistic Regression (Imbalanced sampling, Oversampling, Oversampling with SMOTE)
-  
-  7)Random Forest Model (Oversampling with SMOTE, GridSearchCV)
-  
-  8)XGBoost Model
-  
+  7)Random Forest Model (Oversampling with SMOTE, GridSearchCV)  
+  8)XGBoost Model 
   9)Model Evaluation (Accuracy, Precision, Recall, F1-Score)
+
 
 <img width="945" height="181" alt="Image" src="https://github.com/user-attachments/assets/b6ec8c7a-8be4-4110-9704-62b3d149b7d5" />
 
