@@ -12,7 +12,7 @@ This repository is divided into two parts:
   
 2) Capstone Application - My own personal project where I apply my understanding and skills acquired throughout the certificate to the SECOM dataset
 
-📌 Executive Summary
+📌 Capstone Application Executive Summary
 
 This project addresses a critical challenge in semiconductor fabrication: identifying faulty wafers early in the production line. Using a high-dimensional dataset of 590+ sensor readings, I developed a machine learning pipeline that predicts "FAIL" states with a focus on maximizing Recall, thereby reducing the operational costs associated with downstream processing of defective units.
 
@@ -40,7 +40,9 @@ The link to my certificate: https://coursera.org/share/0584dbe257e6aaa353ae4cf9c
 🧠 Skills & Competencies Developed:
 
 📌 Data Analysis & Statistics
+
 Exploratory Data Analysis (EDA)
+
 Hypothesis testing
 
 Regression analysis
