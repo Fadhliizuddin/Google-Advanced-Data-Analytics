@@ -25,11 +25,13 @@ In the SECOM Capstone Application Project, a Jupyter Notebook on Google Colab wa
   5)Model Building  
   6)Logistic Regression (Imbalanced sampling, Oversampling, Oversampling with SMOTE)  
   7)Random Forest Model (Oversampling with SMOTE, GridSearchCV)  
-  8)XGBoost Model 
+  8)XGBoost Model   
   9)Model Evaluation (Accuracy, Precision, Recall, F1-Score)
 
 
+
 <img width="945" height="181" alt="Image" src="https://github.com/user-attachments/assets/b6ec8c7a-8be4-4110-9704-62b3d149b7d5" />
+
 
 
 
@@ -38,9 +40,7 @@ The link to my certificate: https://coursera.org/share/0584dbe257e6aaa353ae4cf9c
 🧠 Skills & Competencies Developed:
 
 📌 Data Analysis & Statistics
-
 Exploratory Data Analysis (EDA)
-
 Hypothesis testing
 
 Regression analysis
