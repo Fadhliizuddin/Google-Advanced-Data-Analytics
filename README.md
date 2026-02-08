@@ -10,9 +10,9 @@ This repository documents the course resources (Exampler, Follow-along example, 
 
 This repository is divided into two parts:
 
-  1)Certification Resources - Divided into 4 courses, each of which contains its own example, follow-along notation, and end-of-course project
+1)Certification Resources - Divided into 4 courses, each of which contains its own example, follow-along notation, and end-of-course project
   
-  2) Capstone Application - My own personal project where I apply my understanding and skills to the SECOM dataset
+2) Capstone Application - My own personal project where I apply my understanding and skills to the SECOM dataset
 
 📌 Executive Summary
 
@@ -21,15 +21,10 @@ This project addresses a critical challenge in semiconductor fabrication: identi
 In the SECOM Capstone Application Project, a Jupyter Notebook on Google Colab was used, and below is the model deployment pipeline:
 
   1)Data import
-  
-  2)Preprocessing and Cleaning
-  
-  3)Feature Selection (VarianceThreshold, Hypothesis testing with ANOVA)
-  
-  4)Feature Scaling (StandardScaler)
-  
-  5)Model Building
-  
+  2)Preprocessing and Cleaning  
+  3)Feature Selection (VarianceThreshold, Hypothesis testing with ANOVA)  
+  4)Feature Scaling (StandardScaler)  
+  5)Model Building  
   6)Logistic Regression (Imbalanced sampling, Oversampling, Oversampling with SMOTE)
   
   7)Random Forest Model (Oversampling with SMOTE, GridSearchCV)
