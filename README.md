@@ -18,7 +18,7 @@ This project addresses a critical challenge in semiconductor fabrication: identi
 
 In the SECOM Capstone Application Project, a Jupyter Notebook on Google Colab was used, and below is the model deployment pipeline:
 
-  1)Data import
+  1)Data import  
   2)Preprocessing and Cleaning  
   3)Feature Selection (VarianceThreshold, Hypothesis testing with ANOVA)  
   4)Feature Scaling (StandardScaler)  
